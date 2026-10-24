@@ -1,0 +1,4 @@
+machine_id,failure_timestamp,failure_category,affected_component,downtime_duration,repair_expense,root_cause
+CONV-BELT-003,2026-10-01 23:00:00,Belt Splice Failure,Drive Pulley EP800 Belt Splice,8.0,16500.0,Impact tear from sharp sinter lump
+RM-STAND-001,2026-09-24 23:00:00,Mechanical Chock Seizure,Work Roll Chock Bearing,12.5,54000.0,Lubrication starvation leading to bearing overheating
+LADLE-CRANE-001,2026-09-17 23:00:00,Electrical Motor Drive Trip,Hoist Motor Inverter,6.5,22000.0,Phase current harmonic spike and thermal overload trip

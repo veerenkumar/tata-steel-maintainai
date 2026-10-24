@@ -1,0 +1,295 @@
+production_area,start_time,end_time,planned_shift,planned_shutdown,shutdown_type,production_demand_pct,machine_availability_required,notes
+Blast Furnace (Ironmaking),2026-10-22 06:00:00,2026-10-22 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-10-22 14:00:00,2026-10-22 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-10-22 22:00:00,2026-10-23 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-10-22 06:00:00,2026-10-22 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-10-22 14:00:00,2026-10-22 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-10-22 22:00:00,2026-10-23 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-10-22 06:00:00,2026-10-22 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-10-22 14:00:00,2026-10-22 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-10-22 22:00:00,2026-10-23 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-10-22 06:00:00,2026-10-22 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-10-22 14:00:00,2026-10-22 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-10-22 22:00:00,2026-10-23 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-10-22 06:00:00,2026-10-22 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-10-22 14:00:00,2026-10-22 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-10-22 22:00:00,2026-10-23 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-10-22 06:00:00,2026-10-22 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-10-22 14:00:00,2026-10-22 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-10-22 22:00:00,2026-10-23 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-10-22 06:00:00,2026-10-22 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-10-22 14:00:00,2026-10-22 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-10-22 22:00:00,2026-10-23 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-10-23 06:00:00,2026-10-23 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-10-23 14:00:00,2026-10-23 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-10-23 22:00:00,2026-10-24 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-10-23 06:00:00,2026-10-23 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-10-23 14:00:00,2026-10-23 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-10-23 22:00:00,2026-10-24 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-10-23 06:00:00,2026-10-23 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-10-23 14:00:00,2026-10-23 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-10-23 22:00:00,2026-10-24 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-10-23 06:00:00,2026-10-23 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-10-23 14:00:00,2026-10-23 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-10-23 22:00:00,2026-10-24 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-10-23 06:00:00,2026-10-23 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-10-23 14:00:00,2026-10-23 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-10-23 22:00:00,2026-10-24 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-10-23 06:00:00,2026-10-23 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-10-23 14:00:00,2026-10-23 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-10-23 22:00:00,2026-10-24 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-10-23 06:00:00,2026-10-23 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-10-23 14:00:00,2026-10-23 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-10-23 22:00:00,2026-10-24 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-10-24 06:00:00,2026-10-24 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-10-24 14:00:00,2026-10-24 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-10-24 22:00:00,2026-10-25 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-10-24 06:00:00,2026-10-24 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-10-24 14:00:00,2026-10-24 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-10-24 22:00:00,2026-10-25 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-10-24 06:00:00,2026-10-24 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-10-24 14:00:00,2026-10-24 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-10-24 22:00:00,2026-10-25 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-10-24 06:00:00,2026-10-24 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-10-24 14:00:00,2026-10-24 22:00:00,Shift B (Evening),1,Planned Weekly Roll Change & PM Stoppage,0.0,Maintenance Window Available,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-10-24 22:00:00,2026-10-25 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-10-24 06:00:00,2026-10-24 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-10-24 14:00:00,2026-10-24 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-10-24 22:00:00,2026-10-25 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-10-24 06:00:00,2026-10-24 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-10-24 14:00:00,2026-10-24 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-10-24 22:00:00,2026-10-25 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-10-24 06:00:00,2026-10-24 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-10-24 14:00:00,2026-10-24 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-10-24 22:00:00,2026-10-25 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-10-25 06:00:00,2026-10-25 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-10-25 14:00:00,2026-10-25 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-10-25 22:00:00,2026-10-26 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-10-25 06:00:00,2026-10-25 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-10-25 14:00:00,2026-10-25 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-10-25 22:00:00,2026-10-26 06:00:00,Shift C (Night),1,Planned Off-Gas Scrubbing Shutdown,0.0,Maintenance Window Available,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-10-25 06:00:00,2026-10-25 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-10-25 14:00:00,2026-10-25 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-10-25 22:00:00,2026-10-26 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-10-25 06:00:00,2026-10-25 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-10-25 14:00:00,2026-10-25 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-10-25 22:00:00,2026-10-26 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-10-25 06:00:00,2026-10-25 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-10-25 14:00:00,2026-10-25 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-10-25 22:00:00,2026-10-26 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-10-25 06:00:00,2026-10-25 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-10-25 14:00:00,2026-10-25 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-10-25 22:00:00,2026-10-26 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-10-25 06:00:00,2026-10-25 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-10-25 14:00:00,2026-10-25 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-10-25 22:00:00,2026-10-26 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-10-26 06:00:00,2026-10-26 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-10-26 14:00:00,2026-10-26 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-10-26 22:00:00,2026-10-27 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-10-26 06:00:00,2026-10-26 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-10-26 14:00:00,2026-10-26 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-10-26 22:00:00,2026-10-27 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-10-26 06:00:00,2026-10-26 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-10-26 14:00:00,2026-10-26 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-10-26 22:00:00,2026-10-27 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-10-26 06:00:00,2026-10-26 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-10-26 14:00:00,2026-10-26 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-10-26 22:00:00,2026-10-27 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-10-26 06:00:00,2026-10-26 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-10-26 14:00:00,2026-10-26 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-10-26 22:00:00,2026-10-27 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-10-26 06:00:00,2026-10-26 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-10-26 14:00:00,2026-10-26 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-10-26 22:00:00,2026-10-27 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-10-26 06:00:00,2026-10-26 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-10-26 14:00:00,2026-10-26 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-10-26 22:00:00,2026-10-27 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-10-27 06:00:00,2026-10-27 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-10-27 14:00:00,2026-10-27 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-10-27 22:00:00,2026-10-28 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-10-27 06:00:00,2026-10-27 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-10-27 14:00:00,2026-10-27 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-10-27 22:00:00,2026-10-28 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-10-27 06:00:00,2026-10-27 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-10-27 14:00:00,2026-10-27 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-10-27 22:00:00,2026-10-28 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-10-27 06:00:00,2026-10-27 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-10-27 14:00:00,2026-10-27 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-10-27 22:00:00,2026-10-28 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-10-27 06:00:00,2026-10-27 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-10-27 14:00:00,2026-10-27 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-10-27 22:00:00,2026-10-28 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-10-27 06:00:00,2026-10-27 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-10-27 14:00:00,2026-10-27 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-10-27 22:00:00,2026-10-28 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-10-27 06:00:00,2026-10-27 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-10-27 14:00:00,2026-10-27 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-10-27 22:00:00,2026-10-28 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-10-28 06:00:00,2026-10-28 14:00:00,Shift A (Morning),1,Tuyere & Pump Planned Inspection Window,20.0,Maintenance Window Available,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-10-28 14:00:00,2026-10-28 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-10-28 22:00:00,2026-10-29 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-10-28 06:00:00,2026-10-28 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-10-28 14:00:00,2026-10-28 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-10-28 22:00:00,2026-10-29 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-10-28 06:00:00,2026-10-28 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-10-28 14:00:00,2026-10-28 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-10-28 22:00:00,2026-10-29 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-10-28 06:00:00,2026-10-28 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-10-28 14:00:00,2026-10-28 22:00:00,Shift B (Evening),1,Planned Weekly Roll Change & PM Stoppage,0.0,Maintenance Window Available,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-10-28 22:00:00,2026-10-29 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-10-28 06:00:00,2026-10-28 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-10-28 14:00:00,2026-10-28 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-10-28 22:00:00,2026-10-29 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-10-28 06:00:00,2026-10-28 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-10-28 14:00:00,2026-10-28 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-10-28 22:00:00,2026-10-29 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-10-28 06:00:00,2026-10-28 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-10-28 14:00:00,2026-10-28 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-10-28 22:00:00,2026-10-29 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-10-29 06:00:00,2026-10-29 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-10-29 14:00:00,2026-10-29 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-10-29 22:00:00,2026-10-30 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-10-29 06:00:00,2026-10-29 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-10-29 14:00:00,2026-10-29 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-10-29 22:00:00,2026-10-30 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-10-29 06:00:00,2026-10-29 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-10-29 14:00:00,2026-10-29 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-10-29 22:00:00,2026-10-30 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-10-29 06:00:00,2026-10-29 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-10-29 14:00:00,2026-10-29 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-10-29 22:00:00,2026-10-30 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-10-29 06:00:00,2026-10-29 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-10-29 14:00:00,2026-10-29 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-10-29 22:00:00,2026-10-30 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-10-29 06:00:00,2026-10-29 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-10-29 14:00:00,2026-10-29 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-10-29 22:00:00,2026-10-30 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-10-29 06:00:00,2026-10-29 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-10-29 14:00:00,2026-10-29 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-10-29 22:00:00,2026-10-30 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-10-30 06:00:00,2026-10-30 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-10-30 14:00:00,2026-10-30 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-10-30 22:00:00,2026-10-31 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-10-30 06:00:00,2026-10-30 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-10-30 14:00:00,2026-10-30 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-10-30 22:00:00,2026-10-31 06:00:00,Shift C (Night),1,Planned Off-Gas Scrubbing Shutdown,0.0,Maintenance Window Available,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-10-30 06:00:00,2026-10-30 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-10-30 14:00:00,2026-10-30 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-10-30 22:00:00,2026-10-31 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-10-30 06:00:00,2026-10-30 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-10-30 14:00:00,2026-10-30 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-10-30 22:00:00,2026-10-31 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-10-30 06:00:00,2026-10-30 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-10-30 14:00:00,2026-10-30 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-10-30 22:00:00,2026-10-31 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-10-30 06:00:00,2026-10-30 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-10-30 14:00:00,2026-10-30 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-10-30 22:00:00,2026-10-31 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-10-30 06:00:00,2026-10-30 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-10-30 14:00:00,2026-10-30 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-10-30 22:00:00,2026-10-31 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-10-31 06:00:00,2026-10-31 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-10-31 14:00:00,2026-10-31 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-10-31 22:00:00,2026-11-01 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-10-31 06:00:00,2026-10-31 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-10-31 14:00:00,2026-10-31 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-10-31 22:00:00,2026-11-01 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-10-31 06:00:00,2026-10-31 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-10-31 14:00:00,2026-10-31 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-10-31 22:00:00,2026-11-01 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-10-31 06:00:00,2026-10-31 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-10-31 14:00:00,2026-10-31 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-10-31 22:00:00,2026-11-01 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-10-31 06:00:00,2026-10-31 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-10-31 14:00:00,2026-10-31 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-10-31 22:00:00,2026-11-01 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-10-31 06:00:00,2026-10-31 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-10-31 14:00:00,2026-10-31 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-10-31 22:00:00,2026-11-01 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-10-31 06:00:00,2026-10-31 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-10-31 14:00:00,2026-10-31 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-10-31 22:00:00,2026-11-01 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-11-01 06:00:00,2026-11-01 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-11-01 14:00:00,2026-11-01 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-11-01 22:00:00,2026-11-02 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-11-01 06:00:00,2026-11-01 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-11-01 14:00:00,2026-11-01 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-11-01 22:00:00,2026-11-02 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-11-01 06:00:00,2026-11-01 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-11-01 14:00:00,2026-11-01 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-11-01 22:00:00,2026-11-02 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-11-01 06:00:00,2026-11-01 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-11-01 14:00:00,2026-11-01 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-11-01 22:00:00,2026-11-02 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-11-01 06:00:00,2026-11-01 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-11-01 14:00:00,2026-11-01 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-11-01 22:00:00,2026-11-02 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-11-01 06:00:00,2026-11-01 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-11-01 14:00:00,2026-11-01 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-11-01 22:00:00,2026-11-02 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-11-01 06:00:00,2026-11-01 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-11-01 14:00:00,2026-11-01 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-11-01 22:00:00,2026-11-02 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-11-02 06:00:00,2026-11-02 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-11-02 14:00:00,2026-11-02 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-11-02 22:00:00,2026-11-03 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-11-02 06:00:00,2026-11-02 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-11-02 14:00:00,2026-11-02 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-11-02 22:00:00,2026-11-03 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-11-02 06:00:00,2026-11-02 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-11-02 14:00:00,2026-11-02 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-11-02 22:00:00,2026-11-03 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-11-02 06:00:00,2026-11-02 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-11-02 14:00:00,2026-11-02 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-11-02 22:00:00,2026-11-03 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-11-02 06:00:00,2026-11-02 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-11-02 14:00:00,2026-11-02 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-11-02 22:00:00,2026-11-03 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-11-02 06:00:00,2026-11-02 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-11-02 14:00:00,2026-11-02 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-11-02 22:00:00,2026-11-03 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-11-02 06:00:00,2026-11-02 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-11-02 14:00:00,2026-11-02 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-11-02 22:00:00,2026-11-03 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-11-03 06:00:00,2026-11-03 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-11-03 14:00:00,2026-11-03 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-11-03 22:00:00,2026-11-04 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-11-03 06:00:00,2026-11-03 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-11-03 14:00:00,2026-11-03 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-11-03 22:00:00,2026-11-04 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-11-03 06:00:00,2026-11-03 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-11-03 14:00:00,2026-11-03 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-11-03 22:00:00,2026-11-04 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-11-03 06:00:00,2026-11-03 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-11-03 14:00:00,2026-11-03 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-11-03 22:00:00,2026-11-04 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-11-03 06:00:00,2026-11-03 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-11-03 14:00:00,2026-11-03 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-11-03 22:00:00,2026-11-04 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-11-03 06:00:00,2026-11-03 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-11-03 14:00:00,2026-11-03 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-11-03 22:00:00,2026-11-04 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-11-03 06:00:00,2026-11-03 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-11-03 14:00:00,2026-11-03 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-11-03 22:00:00,2026-11-04 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
+Blast Furnace (Ironmaking),2026-11-04 06:00:00,2026-11-04 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift A (Morning).
+Blast Furnace (Ironmaking),2026-11-04 14:00:00,2026-11-04 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift B (Evening).
+Blast Furnace (Ironmaking),2026-11-04 22:00:00,2026-11-05 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Blast Furnace (Ironmaking) under Shift C (Night).
+Steel Melt Shop / BOF,2026-11-04 06:00:00,2026-11-04 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift A (Morning).
+Steel Melt Shop / BOF,2026-11-04 14:00:00,2026-11-04 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift B (Evening).
+Steel Melt Shop / BOF,2026-11-04 22:00:00,2026-11-05 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Steel Melt Shop / BOF under Shift C (Night).
+Continuous Casting Plant (CCP),2026-11-04 06:00:00,2026-11-04 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift A (Morning).
+Continuous Casting Plant (CCP),2026-11-04 14:00:00,2026-11-04 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift B (Evening).
+Continuous Casting Plant (CCP),2026-11-04 22:00:00,2026-11-05 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Continuous Casting Plant (CCP) under Shift C (Night).
+Hot Strip Mill (HSM),2026-11-04 06:00:00,2026-11-04 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift A (Morning).
+Hot Strip Mill (HSM),2026-11-04 14:00:00,2026-11-04 22:00:00,Shift B (Evening),1,Planned Weekly Roll Change & PM Stoppage,0.0,Maintenance Window Available,Operating schedule for Hot Strip Mill (HSM) under Shift B (Evening).
+Hot Strip Mill (HSM),2026-11-04 22:00:00,2026-11-05 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Hot Strip Mill (HSM) under Shift C (Night).
+Cold Rolling Mill (CRM),2026-11-04 06:00:00,2026-11-04 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift A (Morning).
+Cold Rolling Mill (CRM),2026-11-04 14:00:00,2026-11-04 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift B (Evening).
+Cold Rolling Mill (CRM),2026-11-04 22:00:00,2026-11-05 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Cold Rolling Mill (CRM) under Shift C (Night).
+Sinter & Pellet Plant,2026-11-04 06:00:00,2026-11-04 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift A (Morning).
+Sinter & Pellet Plant,2026-11-04 14:00:00,2026-11-04 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift B (Evening).
+Sinter & Pellet Plant,2026-11-04 22:00:00,2026-11-05 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Sinter & Pellet Plant under Shift C (Night).
+Raw Material Handling System (RMHS),2026-11-04 06:00:00,2026-11-04 14:00:00,Shift A (Morning),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift A (Morning).
+Raw Material Handling System (RMHS),2026-11-04 14:00:00,2026-11-04 22:00:00,Shift B (Evening),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift B (Evening).
+Raw Material Handling System (RMHS),2026-11-04 22:00:00,2026-11-05 06:00:00,Shift C (Night),0,None,100.0,Full,Operating schedule for Raw Material Handling System (RMHS) under Shift C (Night).
